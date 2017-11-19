@@ -1,0 +1,4 @@
+-Isi dari folder ini adalah tugas Teknologi Cloud Computing
+-Johan Putra Rahmadan
+-155410165
+-saiyanexpress@gmail.com
